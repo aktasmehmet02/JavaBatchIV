@@ -1,4 +1,4 @@
-package com.Class12;
+package com.class12;
 
 public class ForEachIn2D {
 
